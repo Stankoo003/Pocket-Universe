@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 13de165d8855e3848a70aa2ffff338c7
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 7664643302147439256
+    second: Icosphere.003|Area.001Action
+  - first:
+      74: -4209229734717139866
+    second: Icosphere.003|Area.002Action
+  - first:
+      74: -1742763540853041297
+    second: Icosphere.003|AreaAction
+  - first:
+      74: 104750407566795764
+    second: Icosphere.003|AreaAction.001
+  - first:
+      74: 4640221168633531029
+    second: Icosphere.003|CameraAction.001
+  - first:
+      74: 3753458498358213816
+    second: Icosphere.003|Circle.001Action.002
+  - first:
+      74: -8263715472377600847
+    second: Icosphere.003|Circle.001Action.003
+  - first:
+      74: -8150107048957055571
+    second: Icosphere.003|CylinderAction.001
+  - first:
+      74: -6969756210874189968
+    second: Icosphere.003|Empty.002Action
+  - first:
+      74: -2869296424473587994
+    second: Icosphere.003|Empty.003Action
+  - first:
+      74: 6260868354758254848
+    second: Icosphere.003|EmptyAction
+  - first:
+      74: 6681368721916484019
+    second: Icosphere.003|Icosphere.001Action
+  - first:
+      74: -205296891159391094
+    second: Icosphere.003|Icosphere.001Action.002
+  - first:
+      74: -4482523570881926451
+    second: Icosphere.003|Icosphere.002Action.002
+  - first:
+      74: -302961303485828991
+    second: Icosphere.003|Icosphere.003Action
+  - first:
+      74: -1971887409799886071
+    second: Icosphere.003|Icosphere.003Action.001
+  - first:
+      74: -1379749309325133187
+    second: Icosphere.003|Icosphere.003Action.002
+  - first:
+      74: 8588134329741863544
+    second: Icosphere.003|Icosphere.003Action.003
+  - first:
+      74: -1068031728418374772
+    second: Icosphere.003|Icosphere.003Action.004
+  - first:
+      74: 2771457741726872484
+    second: Icosphere.003|Icosphere.003Action.006
+  - first:
+      74: -5307981518253266163
+    second: Icosphere.003|Icosphere.003Action.007
+  - first:
+      74: -6177897420897917527
+    second: Icosphere.003|Icosphere.005Action
+  - first:
+      74: -2916268404835700877
+    second: Icosphere.003|Icosphere.005Action.001
+  - first:
+      74: -445684217788628846
+    second: Icosphere.003|IcosphereAction
+  - first:
+      74: 2768647074112245716
+    second: Icosphere.003|IcosphereAction.002
+  - first:
+      74: -4525732780447500876
+    second: Icosphere.003|Plane.001Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
